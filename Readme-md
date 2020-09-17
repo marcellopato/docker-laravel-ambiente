@@ -1,0 +1,5 @@
+- Install docker
+- Clone this repo to your projects folder
+- Open dir in Terminal
+- Type: ```docker-compose up -d --build```
+- http://localhost:8088
